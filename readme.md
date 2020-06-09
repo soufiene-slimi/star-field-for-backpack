@@ -1,8 +1,9 @@
 # Star Field for Backpack 4.1
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
-[![Total Downloads][ico-downloads]][link-downloads]
+[![Build Status][ico-build]][link-build]
 [![Quality Score][ico-score]][link-score]
+[![Total Downloads][ico-downloads]][link-downloads]
 
 This package provides a ```star``` field type for the [Backpack for Laravel](https://backpackforlaravel.com/) administration panel. The ```star``` field allows admins to **_change_ the value of a integer variable in order to rate the item, in a prettier way**. It uses a CSS-only solution, so it has zero external dependencies and zero javascript.
 
@@ -96,9 +97,11 @@ MIT. Please see the [license file](license.md) for more information.
 [ico-version]: https://img.shields.io/packagist/v/soufiene-slimi/star-field-for-backpack.svg
 [ico-downloads]: https://img.shields.io/packagist/dt/soufiene-slimi/star-field-for-backpack.svg
 [ico-score]: https://img.shields.io/scrutinizer/g/soufiene-slimi/star-field-for-backpack.svg
+[ico-build]: https://scrutinizer-ci.com/g/soufiene-slimi/star-field-for-backpack/badges/build.png?b=master
 
 [link-packagist]: https://packagist.org/packages/soufiene-slimi/star-field-for-backpack
 [link-downloads]: https://packagist.org/packages/soufiene-slimi/star-field-for-backpack
 [link-score]: https://scrutinizer-ci.com/g/soufiene-slimi/star-field-for-backpack
+[link-build]: https://scrutinizer-ci.com/g/soufiene-slimi/star-field-for-backpack/build-status/master
 [link-author]: https://github.com/soufiene-slimi
 [link-contributors]: ../../contributors
